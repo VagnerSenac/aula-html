@@ -1,0 +1,24 @@
+.padrao{
+    background-color: darkgreen;
+    color: white;
+}
+.titulosprincipal{
+    color: yellow;
+    font-size: 60px;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+.titulos{
+    color: darkblue;
+    background-color: palegreen;
+    border: 5px double red;
+}
+.textos{
+    color: rgb(154, 206, 212);
+}
+.textoscomimagem{
+    border: lightblue 5px double;
+    font-size: 18px;
+    color: rgb(196, 14, 14);
+    background-image: url(foto6.gif);
+}
